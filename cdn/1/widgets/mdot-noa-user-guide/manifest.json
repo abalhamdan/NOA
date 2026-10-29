@@ -1,0 +1,17 @@
+{
+  "name": "mdot-noa-user-guide",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT",
+  "description": "NOA user guide: how to read the need rankings, what each performance theme measures, how to use the dashboard, what a segment popup shows, data sources and common questions.",
+  "label": "MDOT NOA User Guide",
+  "defaultSize": {
+    "width": 1200,
+    "height": 1100
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}

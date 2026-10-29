@@ -1,0 +1,18 @@
+{
+  "name": "mdot-noa-dashboard",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT",
+  "description": "NOA dashboard: one widget with a side bar that switches between the Composite, Safety, Congestion, Reliability, Access and Resilience views. Each view has its own web map, KPI cards, legend and segment details, with County / District / MPO filters shared across views.",
+  "label": "MDOT NOA Dashboard",
+  "defaultSize": {
+    "width": 1280,
+    "height": 1000
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "dependency": "jimu-arcgis"
+}

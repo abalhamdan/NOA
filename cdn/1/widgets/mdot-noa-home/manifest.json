@@ -1,0 +1,17 @@
+{
+  "name": "mdot-noa-home",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.20.0",
+  "author": "MDOT",
+  "description": "NOA home page: hero, the five performance themes plus the Composite view (each opens the dashboard), intended users, how to use the tool, about, and principal goals.",
+  "label": "MDOT NOA Home",
+  "defaultSize": {
+    "width": 1200,
+    "height": 2600
+  },
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}
